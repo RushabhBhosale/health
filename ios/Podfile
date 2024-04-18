@@ -17,8 +17,8 @@ target 'healthnovoplus' do
 
 
   
-  pod 'Firebase/Messaging', '~> 7.6.0'
-  pod 'Firebase/CoreOnly', '~> 7.6.0'
+  pod 'Firebase/Messaging', '~> 8.0'
+  pod 'Firebase/CoreOnly', '~> 8.0'
 
 
   target 'healthnovoplusTests' do
